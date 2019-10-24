@@ -3,4 +3,4 @@ prefix=K
 game=Kplay Khelp
 stayinchannel=true
 songinstatus=true
-token=NjM2NzY5OTkzODM2NDYyMDgx.XbEk_w.Yzg6LvszQ5iNJT9xK1gDeA_PbNI
+token=NjM2NzY5OTkzODM2NDYyMDgx.XbEk_
