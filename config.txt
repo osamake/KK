@@ -13,7 +13,8 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = NjQxMTY1MDEzNTI4MDg0NDkx.XcEZfA.hpqV2V2Y8IfxGJrKAwPDUULYv-o
+token = NjQxMTY1MDEzNTI4MDg0NDkx.XcEqtQ.S4v3LsJCmEcbZFuZfc-Xmk2N5dA
+
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
@@ -87,7 +88,7 @@ npimages = false
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 
-stayinchannel = true
+stayinchannel = false
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
